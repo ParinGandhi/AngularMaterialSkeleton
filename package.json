@@ -1,0 +1,19 @@
+{
+    "name": "angularmaterialskeleton",
+    "version": "1.0.0",
+    "description": "A skeleton webapp using Angular and Materialize",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server --port=5555"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ParinGandhi/AngularMaterialSkeleton.git"
+    },
+    "author": "Parin Gandhi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ParinGandhi/AngularMaterialSkeleton/issues"
+    },
+    "homepage": "https://github.com/ParinGandhi/AngularMaterialSkeleton#readme"
+}
